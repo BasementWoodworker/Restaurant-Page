@@ -1,0 +1,30 @@
+.contact-container {
+  height: 100%;
+  width: 1050px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+  padding: 80px;
+  background-color: var(--light);
+}
+
+.contact-container > h1 {
+  font-size: 64px;
+  color: var(--dark);
+}
+
+.contact-mini-container {
+  color: var(--dark);
+  font-size: 32px;
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+}
+
+.contact-spacer {
+  height: 3px;
+  width: 51%;
+  background-color: var(--dark);
+  border-radius: 25%;
+}
