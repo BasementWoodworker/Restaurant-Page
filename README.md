@@ -1,1 +1,1 @@
-#This is just the dist directory of the main branch
+# This is just the dist directory of the main branch
